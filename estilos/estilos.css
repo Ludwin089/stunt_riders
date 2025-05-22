@@ -12,3 +12,28 @@ h2{
     color: #0044ff;
     text-align: left;
 }
+
+h3{
+    color: #000000;
+    text-align: center;
+}
+
+.container{
+    background-color: f#fff;
+    
+    margin: auto;
+    overflow: hidden;
+}
+
+.loool{
+    background-color: #fff;
+    color: #000000;
+    
+}
+
+.img{
+    width: 50%;
+    position: absolute;
+    right: 250px;
+}
+
